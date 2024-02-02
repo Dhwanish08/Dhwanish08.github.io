@@ -25,7 +25,12 @@
     font-size: 13px !important;
     color:orange;
 }
-
+#me{
+    height: 150px;
+    width: 150px;
+    float: right;
+    border-radius: 50%;
+}
 .hero{
     height: 650px;
     background-image: url("https://i.pinimg.com/564x/16/c0/55/16c055d9dc975a4269a18ee0535f552e.jpg");
@@ -52,7 +57,7 @@
 
 .hero-text p{
     color:white;
-    width: 50%;
+    width: 40%;
 }
 .hero-title{
      /* padding-top:80px; */
