@@ -26,8 +26,8 @@
     color:orange;
 }
 #me{
-    height: 150px;
-    width: 150px;
+    height: 250px;
+    width: 250px;
     float: right;
     border-radius: 50%;
 }
@@ -42,7 +42,7 @@
     
 }
 .hero-description{
-    height: 650px;
+    height: auto;
     background-color: rgba(0, 0, 21, .7);
     display: flex;
 }
@@ -57,7 +57,7 @@
 
 .hero-text p{
     color:white;
-    width: 40%;
+    width: auto;
 }
 .hero-title{
      /* padding-top:80px; */
@@ -84,7 +84,7 @@ main{
 .title{
     color:white;
     font-weight: 600;
-    font-size: 40px;;
+    font-size: 40px;
     margin:50px 0px;
     text-align: center;
     text-transform: uppercase;
