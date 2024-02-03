@@ -25,13 +25,14 @@
     font-size: 13px !important;
     color:orange;
 }
-#me{
+#me img{
     height: 250px;
     width: 250px;
     float: right;
     border-radius: 50%;
 }
 .hero{
+    
     height: 650px;
     background-image: url("https://i.pinimg.com/564x/16/c0/55/16c055d9dc975a4269a18ee0535f552e.jpg");
     background-repeat: no-repeat;
@@ -42,7 +43,7 @@
     
 }
 .hero-description{
-    height: auto;
+    height: 650px;
     background-color: rgba(0, 0, 21, .7);
     display: flex;
 }
@@ -57,7 +58,7 @@
 
 .hero-text p{
     color:white;
-    width: auto;
+    width: 50%;
 }
 .hero-title{
      /* padding-top:80px; */
@@ -84,7 +85,7 @@ main{
 .title{
     color:white;
     font-weight: 600;
-    font-size: 40px;
+    font-size: 40px;;
     margin:50px 0px;
     text-align: center;
     text-transform: uppercase;
