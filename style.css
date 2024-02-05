@@ -368,6 +368,10 @@ html {
     .heeder-large-screen{
         display:block !important;
     }
+    #me img{
+        height: 0px;
+        width: 0px;
+    }
     .hero{
         height: 450px !important;
         background-image: url("https://i.pinimg.com/564x/16/c0/55/16c055d9dc975a4269a18ee0535f552e.jpg");
