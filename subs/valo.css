@@ -3,7 +3,9 @@
     background-color: rgba(0, 0, 21, 1);
     
 }
-
+body{
+    font-family: sans-serif;
+}
 /*Extra Large screens - Extra large desktops*/
 
 .heeder-large-screen{
