@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+header {
+    background-color: red;
+    color: #fff;
+    padding: 1rem;
+}
+main {
+    margin: 2rem;
+}
+button {
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    background-color: blue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #290283;
+}
+h2 {
+    color: #333;
+}
+#questions div {
+    margin-top: 1rem;
+}
+.question-block {
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+.question-block p {
+    margin: 0.5rem 0;
+}
+.question-block button {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+}

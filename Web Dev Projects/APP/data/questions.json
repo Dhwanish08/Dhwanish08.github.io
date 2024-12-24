@@ -1,0 +1,254 @@
+[
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Electron volt is a unit of:<br>(a) charge<br>(b) potential difference<br>(c) energy<br>(d) magnetic force",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Light year is a unit of:<br>(a) time<br>(b) distance<br>(c) sunlight intensity<br>(d) mass",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following pairs has the same dimensions?<br>(a) specific heat and latent heat<br>(b) impulse and momentum<br>(c) surface tension and force<br>(d) moment of inertia and torque",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following sets of quantities has the same dimensional formula?<br>(a) frequency, angular frequency, and angular momentum<br>(b) surface tension, stress, and spring constant<br>(c) acceleration, momentum, and retardation<br>(d) work, energy, and torque",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "If C and R denote capacitance and resistance respectively, what will be the dimensions of C × R?<br>(a) [M⁰L⁰T⁰A⁰]<br>(b) [ML⁰T⁻²A⁻²]<br>(c) [ML⁰T²A²]<br>(d) [MLT⁻²A⁻²]",
+        "answer": "a"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "A particle starting from the origin (0, 0) moves in a straight line in the (x, y) plane. Its coordinates at a later time are (x, y). The path of the particle makes with the x-axis an angle of:<br>(a) 30°<br>(b) 45°<br>(c) 60°<br>(d) 0°",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Resolution is:<br>(a) a measure of the bias in the instrument<br>(b) none of these<br>(c) the smallest amount of input signal change that the instrument can detect reliably<br>(d) a measure of the systematic errors",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Fundamental or base quantities are arbitrary. In SI system these are:<br>(a) length, force, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity<br>(b) length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity<br>(c) length, mass, time, electric charge, thermodynamic temperature, amount of substance, and luminous intensity<br>(d) length, mass, force, electric current, thermodynamic temperature, amount of substance, and luminous intensity",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Unit for a fundamental physical quantity is:<br>(a) defined as best of various reference standards<br>(b) the smallest measurable value of the physical quantity<br>(c) defined as average of various reference standards<br>(d) reference standard for the physical quantity",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "The volume of a cube in m³ is equal to the surface area of the cube in m². The volume of the cube is:<br>(a) 64 m³<br>(b) 216 m³<br>(c) 512 m³<br>(d) 196 m³",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "In SI system the fundamental units are:<br>(a) meter, kilogram, second, ampere, Kelvin, mole, and candela<br>(b) meter, kilogram, second, coulomb, Kelvin, mole, and candela<br>(c) meter, Newton, second, ampere, Kelvin, mole, and candela<br>(d) meter, kilogram, second, ampere, Kelvin, mole, and lux",
+        "answer": "a"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "If energy (E), velocity (v), and force (F) are taken as fundamental quantities, what are the dimensions of mass?<br>(a) Ev²<br>(b) Ev⁻²<br>(c) Fv⁻¹<br>(d) Fv⁻²",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "The number of significant figures in 0.0023050 is:<br>(a) 4<br>(b) 5<br>(c) 6<br>(d) 7",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following is a dimensionless quantity?<br>(a) Strain<br>(b) Stress<br>(c) Force<br>(d) Velocity",
+        "answer": "a"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following is not a fundamental quantity in the SI system?<br>(a) Length<br>(b) Mass<br>(c) Time<br>(d) Speed",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "The dimensional formula for Planck's constant is:<br>(a) [ML²T⁻¹]<br>(b) [ML²T⁻²]<br>(c) [MLT⁻¹]<br>(d) [M⁰L⁰T⁰]",
+        "answer": "a"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following has the same unit as energy?<br>(a) Power<br>(b) Force<br>(c) Work<br>(d) Momentum",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "The unit of electric field in the SI system is:<br>(a) N/C<br>(b) V/m<br>(c) Both (a) and (b)<br>(d) None of these",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "Which of the following is a vector quantity?<br>(a) Speed<br>(b) Work<br>(c) Energy<br>(d) Displacement",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 1,
+        "difficulty": 1,
+        "question": "The dimensional formula of angular momentum is:<br>(a) [MLT⁻¹]<br>(b) [ML²T⁻¹]<br>(c) [ML²T⁻²]<br>(d) [MLT⁻²]",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "A body starts from rest and travels with uniform acceleration of 2 m/s². After t seconds, its velocity is 10 m/s. Then t is:\n(a) 5 s\n(b) 10 s\n(c) 2 s\n(d) 20 s",
+        "answer": "a"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "Which one of the following is the unit of acceleration?\n(a) m/s\n(b) m/s²\n(c) km/hr\n(d) cm/s",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "The dimensional formula for speed is:\n(a) T⁻¹\n(b) LT⁻¹\n(c) L⁻¹T⁻¹\n(d) L⁻¹T",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "A body starts from rest and travels for t seconds with uniform acceleration of 2 m/s². If the displacement made by it is 16 m, the time of travel t is:\n(a) 4 s\n(b) 3 s\n(c) 6 s\n(d) 8 s",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "The dimensional formula for acceleration is:\n(a) [LT²]\n(b) [LT⁻²]\n(c) [L²T]\n(d) [L²T²]",
+        "answer": "b"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "A body starts from rest and travels for five seconds to make a displacement of 25 m. If it has traveled the distance with uniform acceleration a, then a is:\n(a) 3 m/s²\n(b) 4 m/s²\n(c) 2 m/s²\n(d) 1 m/s²",
+        "answer": "c"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "A 180-meter long train is moving due north at a speed of 25 m/s. A small bird is flying due south, a little above the train, with a speed of 5 m/s. The time taken by the bird to cross the train is:\n(a) 10 s\n(b) 12 s\n(c) 9 s\n(d) 6 s",
+        "answer": "d"
+    },
+    {
+        "section": "PCM",
+        "class": "11th",
+        "subject": "Physics",
+        "chapter": 2,
+        "difficulty": 1,
+        "question": "The dimensional formula for velocity is:\n(a) [LT]\n(b) [LT⁻¹]\n(c) [L²T]\n(d) [L⁻¹T]",
+        "answer": "b"
+    }
+]

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APP</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <body>
+    <header>
+        <h1>Questions</h1>
+    </header>
+    <main>
+        <section id="main-menu">
+            <h2>Select a Section</h2>
+            <button onclick="showClasses('PCM')">PCM</button>
+            <button onclick="showClasses('PCB')">PCB</button>
+        </section>
+        <section id="class-menu" style="display:none;">
+            <button onclick="goBack()">Go Back</button>
+            <h2>Select a Class</h2>
+            <button onclick="showSubjects('11th')">11th</button>
+            <button onclick="showSubjects('12th')">12th</button>
+        </section>
+        <section id="subject-menu" style="display:none;">
+            <button onclick="goBack()">Go Back</button>
+            <h2>Select a Subject</h2>
+            <div id="subjects"></div>
+        </section>
+        <section id="chapter-menu" style="display:none;">
+            <button onclick="goBack()">Go Back</button>
+            <h2>Select a Chapter</h2>
+            <div id="chapters"></div>
+        </section>
+        <section id="questions-menu" style="display:none;">
+            <button onclick="goBack()">Go Back</button>
+            <h2>Select Difficulty</h2>
+            <button onclick="showQuestions(1)">Boards</button>
+            <button onclick="showQuestions(2)">GUJCET</button>
+            <button onclick="showQuestions(3)">Competitive</button>
+            <div id="questions"></div>
+        </section>
+    </main>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
+
